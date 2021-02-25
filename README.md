@@ -1,2 +1,2 @@
 <h1>My Projects</h1>
-My learn projects 
+<pre>Das ist mein github repo damit übe ich mal die einfachen Dinge</pre>
