@@ -1,0 +1,36 @@
+Markdown markup language
+
+# heading level bis heading level 6 ######MyHeading
+
+Texte einfach schreiben und wenn man Aufzählungen machen will dann einfach mit Bindestriche! 
+Ignoriert die Leerzeichen nicht wie HTML 
+**bold_Text** äquivalent
+__bold_Text__ äquivalent
+
+> Blocksatz
+> geht hier weiter der Blocksatz
+
+für weitere Schriftarten schau hier: https://www.markdownguide.org/basic-syntax/
+
+Geordnete und ungeordnete Liste 
+
+geordnet
+
+1. First item 
+2. second item 
+
+ungeordnet 
+
+- first item 
+- second item
+
+Markdown Ziele bei der Verwendung 
+
+Auszeichnungssprache die einfach zu lesen und übersichtlich ist
+Soll für ReadmeFiles, Blogposts, Forum oder in statistischen Seitengeneratoren verwendet werden
+
+Welcher Editor?
+
+Eigentlich egal ist eine textbasierte Datei aber wenn dann würde ich VSCode verwenden da es hier ein preview Display für die
+Ansicht gibt 
+

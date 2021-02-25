@@ -1,2 +1,7 @@
-<h1>My Projects</h1>
-<pre>Das ist mein github repo damit übe ich mal die einfachen Dinge</pre>
+# Meine ersten Projekte
+
+Das wird eine coole Sache mit dem Repository
+
+- HTML, CSS und Javascript kommt hier rein
+- Java und Unit Tests 
+- Vieles mehr 
